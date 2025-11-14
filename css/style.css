@@ -6,7 +6,7 @@ body {height: 100%; width: 100%; margin: 0;}
 #container {position: relative; height: 480px; width: 350px; border: 1px solid #ccc; background: url('../sprites/bg.png'); overflow: hidden; margin: 80px auto;}
 
 /* Con chim */
-#bird {position: absolute; background: url('../sprites/bird.png'); height: 10px; width: 10px; background-size: contain; background-repeat: no-repeat; top: 20%; left: 15%;}
+#bird {position: absolute; background: url('../sprites/bird.png'); height: 42px; width: 65px; background-size: contain; background-repeat: no-repeat; top: 20%; left: 15%;}
 
 /* Ống nước */
 .pole {position: absolute; height: 170px; width: 60px; background-color: #5733cc; right: -64px; border: 2px solid #000;}
