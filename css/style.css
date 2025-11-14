@@ -25,28 +25,4 @@ body {height: 100%; width: 100%; margin: 0;}
 
 /* Nút chơi game */
 #play_btn {display: block; position: absolute; width: 100%; height: 100%; background-color: transparent; border: 0; font-size: 30px; color: #555;}
-/* Thêm các lớp cho nhóm hình ảnh bird */
-.bird-type-1 {
-    background: url('../sprites/bird-type-1.png');
-}
 
-.bird-type-2 {
-    background: url('../sprites/bird-type-2.png');
-}
-
-/* Thêm các lớp cho nhóm hình ảnh pole */
-.pole-type-1 {
-    background: url('../sprites/pole-type-1.png');
-}
-
-.pole-type-2 {
-    background: url('../sprites/pole-type-2.png');
-}
-#level {
-    font-size: 20px;
-    position: absolute;
-    top: 10px;
-    left: 10px;
-    color: #555;
-    font-weight: bold;
-}
